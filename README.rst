@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Folympus-fergus%2Fdvpwa.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Folympus-fergus%2Fdvpwa?ref=badge_shield)
+
 ===============================================
 DVPWA -- Damn Vulnerable Python Web Application
 ===============================================
@@ -255,3 +257,7 @@ TBA
 .. _`dvwa`: http://dvwa.co.uk
 .. _`bobby-tables xkcd comics`: https://xkcd.com/327/
 .. _`Web vulnerabilities`: https://www.slideshare.net/OlexandrKovalchuk/web-vulnerabilities-78366279
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Folympus-fergus%2Fdvpwa.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Folympus-fergus%2Fdvpwa?ref=badge_large)
